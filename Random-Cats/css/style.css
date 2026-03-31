@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(159, 167, 152);
+    padding: 100px;
+
+}
+
+h1 {
+    color: azure;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+    padding: 40px;
+}
+
+button {
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 100;
+    background-color: rgb(124, 104, 104);
+    color: azure;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover {
+    background-color: rgb(148, 129, 129);
+}
